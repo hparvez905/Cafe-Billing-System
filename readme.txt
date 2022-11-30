@@ -6,7 +6,6 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"voting management system"
 
 4. Download the zip file/ download winrar
 
